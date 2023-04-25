@@ -1,0 +1,26 @@
+{
+  "name": "Tutorial3a",
+  "version": "1.0.0",
+  "description": "// using HTTP module // intro and details later // some point all of code will involve server side code // syntax in more detail later",
+  "main": "12Http.js",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SherryKennedy/temp_nodejs_tut.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SherryKennedy/temp_nodejs_tut/issues"
+  },
+  "homepage": "https://github.com/SherryKennedy/temp_nodejs_tut#readme"
+}
